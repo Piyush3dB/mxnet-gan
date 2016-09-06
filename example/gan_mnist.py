@@ -1,7 +1,9 @@
 import logging
 import numpy as np
+import find_mxnet
 import mxnet as mx
 import sys
+import pdb as pdb
 
 sys.path.append("..")
 
